@@ -1,5 +1,4 @@
-# Métodos e Técnicas de Análise de Dados
-Inspecionar → limpar → transformar → modelar → tomada de decisão
+## Inspecionar → limpar → transformar → modelar → tomada de decisão
 
 # Objetivos
     * Conhecer e perceber o processo sistemático da tomada de decisão e cada uma das suas fases
