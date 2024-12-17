@@ -5,7 +5,7 @@ import numpy as np
 
 h2o.init()
 
-model_path = "DRF_carros" 
+model_path = "./DRF_carros" 
 model = h2o.load_model(model_path)
 
 def make_prediction():
